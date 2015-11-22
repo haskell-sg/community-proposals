@@ -1,44 +1,51 @@
 # Haskell Community Project
 
 ## Motivation
-In the past two years we have been sticking to the form of inviting speakers to talk. However, we feel that this form exhausted organizers and active participants, since it is mostly giving and most of time it is just to fulfill the responsibilities. It's time to try out new way of community development. We would list a few of projects from top of our heads, it might be the projects that have been our wish list for a long time, or it is just a grandiose project that we would want to conquer and learn something along the way. We want it to be a journey to the epiphany where everybody would learn something along the way. Even you are a completely new comers, we welcome you and would manage to find tasks matching your proficiency. 
+
+In the past two years we have been inviting speakers to talk.
+But there may be the better way, more open and looking towards building skills within whole community.
+We have quite a few projects that we would like to hack on.
+Some are something nice to learn, and some are grandiose.
+Why don't we play and learn together when hacking on these projects, and share the experience?
+Even you are a completely newcomers, we welcome you and would manage to find tasks matching your proficiency. 
+We want it to be a journey to the epiphany where everybody would learn something along the way.
+
+## Participation
+
+### Who?
+We invite everyone willing to learn Haskell, we would give proper guidance if you have no previous experience with functional programming.
+
+### How to join?
+
+* Sign yourself under one of the project by either sending a Git pull request, or mailing organizers.
+* You may also submit a pull request with a project idea of your own!
+* Join us on a hack day at [HackerSpace.SG](https://hackerspace.sg)
+
+### How we work?
+
+* The easiest way to collaborate on the project will be to put it into public repository with other interested people.
+* Of course, we might invite you to give a talk on your experience!
+* Answer your questions.
+* Help to review your code.
+* For advanced task we would find and invite the domain expert.
+
+### When do we work?
+
+* Weekend biweekly?
 
 
-## Participate
+### Collaboration tools
 
-* Everyone willing to learn Haskell, we would give proper guidance if you have no previous experience on Haskell. 
-* The only condition is that we might invite you to give a talk on your finding.
-
-
-## Code Review
-
-* For most of the tasks the active participants could help review them. For advanced task we would invite the domain expert to see if they are willing to help and give us guidancce.
-
-
-## Time
-
-* Weekend biweekly
-
-
-## Collaboration
-
-* Group Channle Software: It could be decided later, we could decide among irc, gitter, slack or any other suggestions.
+* Group Channel Software: It could be decided later, we could decide among irc, gitter, slack or any other suggestions.
 * Github Wiki
-* Google Doc 
+* Google Doc
+* There is an Etherpad clone nearby...
 
-
-## Projects
+# Proposed projects
 
 At this moment, we drafted out three candidates projects, you are welcomed to propose your own
 
-* Building Your Own Haskell Compiler
-* Building Atom Plugin with GHCJS
-* Periscope clone
-
-
-## Location
-
-* Hackerspace.SG
-
-
+* [Building Your Own Haskell Compiler](BYOHC-SG.md)
+* [Building Atom Plugin with GHCJS](building-atom-plugin-with-ghcjs.md)
+* [Periscope clone](periscope-clone.md)
 
